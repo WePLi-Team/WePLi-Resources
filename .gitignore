@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# design tools cache
+*.tmp
+*.bak
+*.autosave
+~$*
+
+# exports 금지 보안
+exports/

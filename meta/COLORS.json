@@ -1,0 +1,15 @@
+{
+  "brandPrimary": "#111111",
+  "brandOnPrimary": "#FFFFFF",
+  "accent": "#4FC3F7",
+  "dark": {
+    "background": "#000000",
+    "foreground": "#FFFFFF",
+    "muted": "#8A8A8A"
+  },
+  "light": {
+    "background": "#FFFFFF",
+    "foreground": "#111111",
+    "muted": "#6B6B6B"
+  }
+}

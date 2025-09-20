@@ -1,0 +1,29 @@
+{
+  "AppIcon/WePLi": {
+    "source": "originals/app-icons/wepli-app-icon.ai",
+    "derivatives": [
+      "iOS AppIcon set in iOS repo",
+      "Android mipmap icons in Android repo"
+    ],
+    "notes": "앱 레포에서 변환과 배치를 수행, 라이트/다크 버전 모두 유지",
+    "updated": "2025-09-20"
+  },
+  "Bot/BackupProcess/Avatar": {
+    "source": "originals/bots/backup-process/backup-bot-avatar.fig",
+    "derivatives": [
+      "PNG 512 marketing",
+      "SVG docs"
+    ],
+    "notes": "봇 플랫폼별 사이즈 가이드를 BRAND_GUIDE에 기록",
+    "updated": "2025-09-20"
+  },
+  "Brand/Logo/Small": {
+    "source": "originals/brand/wepli-logo-small.png",
+    "derivatives": [
+      "PNG for documentation",
+      "SVG for web"
+    ],
+    "notes": "마케팅 및 문서용 로고",
+    "updated": "2025-09-20"
+  }
+}
