@@ -9,4 +9,4 @@
 - `wepli-symbol-{variant}.{format}`
 
 ## 작업 히스토리
-- 2025-09-20: 초기 업로드 (wepli-logo-small.png)
+- 2025-09-20: 초기 디렉터리 생성

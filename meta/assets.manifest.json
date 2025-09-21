@@ -1,6 +1,6 @@
 {
   "AppIcon/WePLi": {
-    "source": "originals/app-icons/wepli-app-icon.ai",
+    "source": "originals/app-icons/wepli-app-icon.png",
     "derivatives": [
       "iOS AppIcon set in iOS repo",
       "Android mipmap icons in Android repo"
@@ -15,15 +15,6 @@
       "SVG docs"
     ],
     "notes": "봇 플랫폼별 사이즈 가이드를 BRAND_GUIDE에 기록",
-    "updated": "2025-09-20"
-  },
-  "Brand/Logo/Small": {
-    "source": "originals/brand/wepli-logo-small.png",
-    "derivatives": [
-      "PNG for documentation",
-      "SVG for web"
-    ],
-    "notes": "마케팅 및 문서용 로고",
     "updated": "2025-09-20"
   }
 }

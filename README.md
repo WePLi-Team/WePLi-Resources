@@ -59,5 +59,5 @@ git lfs pull
 
 - [WePLi-Android](https://github.com/WePLi-Team/WePLi-Android)
 - [WePLi-iOS](https://github.com/WePLi-Team/WePLi-iOS)
-- [WePLi-Backup-Process](https://github.com/WePLi-Team/WePLi-Backup-Process)
+- [WePLi-Backup](https://github.com/WePLi-Team/WePLi-Backup)
 - [WePLi-Docs](https://github.com/WePLi-Team/WePLi-Docs)
