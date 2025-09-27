@@ -20,7 +20,7 @@
 WePLi-Resources/
 ├─ README.md
 ├─ .gitignore
-├─ .gitattributes               # Git LFS 설정
+├─ .gitattributes               # Git 속성 설정
 ├─ .github/
 │  ├─ CODEOWNERS
 │  └─ pull_request_template.md
@@ -39,14 +39,10 @@ WePLi-Resources/
    └─ fonts/                    # 커스텀 폰트 및 라이선스
 ```
 
-## Git LFS 설정
+## 파일 관리 정책
 
-이 레포는 대용량 디자인 파일을 위해 Git LFS를 사용합니다:
-
-```bash
-git lfs install
-git lfs pull
-```
+이 레포는 다른 레포지토리에서 리소스를 직접 참조할 수 있도록 이미지 파일을 일반 Git으로 관리합니다.
+대용량 원본 파일(PSD, AI 등)은 필요시 별도 관리를 고려하세요.
 
 ## 기여 가이드
 
